@@ -13,4 +13,4 @@
 - Run `docker-compose up -d` on root level of working directory.
 - From the logs of bootnode (node-1) copy the enode url and add it to the `config.toml` for all other nodes.
 -  **TO START** restart all the containers.
-- For more details visit: https://medium.com/@prasanthvenugopalan_4575/creating-a-private-blockchain-using-hyperledger-besu-96c7f281bab4
+
